@@ -1,0 +1,4 @@
+StepsDefinition\LoginSteps.class
+StepsDefinition\AddNewBRSteps.class
+StepsDefinition\cucumberRunner.class
+StepsDefinition\DeleteRequest.class
